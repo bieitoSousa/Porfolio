@@ -616,19 +616,31 @@ a.icon-up-bg:hover {color: var(--black_1);}
 }
 
 /*Eliminar table border top*/
-.table>tbody>tr>td, 
-.table>tbody>tr>th, 
+.table>tbody>tr>td,  
 .table>tfoot>tr>td, 
-.table>tfoot>tr>th, 
-.table>thead>tr>td, 
-.table>thead>tr>th {
+.table>thead>tr>td
+{
     padding: 8px;
     line-height: 1.42857143;
     vertical-align: top;
     border-top: 0px solid #ddd;
 }
 
+ 
+.table>tbody>tr>th, 
+.table>tfoot>tr>th, 
+.table>thead>tr>th {
+    padding: 0px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 0px solid #ddd;
+}
 
+#about{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;   
+}
 
 #training td:last-child {
     color: blue;
@@ -637,11 +649,44 @@ a.icon-up-bg:hover {color: var(--black_1);}
 
 
 
-#experience td:last-child p:first-child {
+.experience_content p:first-child {
     color: blue;
     margin-bottom:1%;
+   
 }
 
+#experience div{
+    text-align: left;
+}
+
+#experience
+
+.row{
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 5%;
+    }
+
+.site-section p{
+    margin-bottom: 2%;
+}
+
+
+.experience_content{
+    padding-left: 3%;
+}
+
+.experience_content p:last-child {
+padding-left: 5%;
+}
+
+.site-footer {
+    position: static;
+    bottom: 0;
+    padding: 30px 0;
+    width: 100%;
+    background-color: var(--black_1);
+}
 
 /*ANIMACIÓN TEXTO CABECERA*/
 
