@@ -224,6 +224,7 @@ html, body {
 ================================================== */
 h3{
     color :var(--primary); 
+    text-align: center;
 }
 
 hr {
@@ -615,6 +616,10 @@ a.icon-up-bg:hover {color: var(--black_1);}
     padding: 0%;
 }
 
+#skills h4 {
+    padding-left: 5%;
+}
+
 /*Eliminar table border top*/
 .table>tbody>tr>td,  
 .table>tfoot>tr>td, 
@@ -659,11 +664,11 @@ a.icon-up-bg:hover {color: var(--black_1);}
     text-align: left;
 }
 
-#experience
 
-.row{
+
+.row_content{
         padding-left: 5%;
-        padding-right: 5%;
+        padding-right: 5%; 
         padding-bottom: 5%;
     }
 
