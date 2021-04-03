@@ -248,7 +248,7 @@ hr {
     height: 100%;
 }
 
-.hero .col-md-6:first-child {
+.hero .col-md-8:first-child {
     position: absolute;
     top: 35%;
     left: 0;
@@ -260,7 +260,7 @@ hr {
     z-index: 2;
 }
 
-.hero .col-md-6:last-child {
+.hero .col-md-8:last-child {
     position: absolute;
     right: 0;
     bottom: 0;
@@ -589,6 +589,21 @@ hr {
     background-color: var(--white_2);
 }
 
+.icon-ij{
+    background-image : url(../img/ij_logo.png);
+    background-size: cover;
+    display: inline-block;
+    height: 2em;
+    width: 2em; 
+    position: absolute;
+    top: 0;
+    right: auto;
+    left: auto;
+  }
+  .icon-ij-container{
+    position: relative;
+  }
+
 .site-footer a {
     transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
     -moz-transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
@@ -692,6 +707,8 @@ padding-left: 5%;
     width: 100%;
     background-color: var(--black_1);
 }
+
+#myCarousel{padding-bottom: 20%;}
 
 /*ANIMACIÓN TEXTO CABECERA*/
 
