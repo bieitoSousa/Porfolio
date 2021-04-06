@@ -233,6 +233,9 @@ hr {
    color: var(--secondary);
    background-color:var(--secondary);
 }
+.center{
+    text-align: center;
+}
 
 /* HERO
 ================================================== */
