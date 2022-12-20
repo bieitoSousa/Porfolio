@@ -1,0 +1,59 @@
+{
+  "name": "¡En constante formación!",
+  "docs": [
+    {
+      "src": "UC-SQL_BASIC.jpg",
+      "alt": "0_UC_SQL_BASIC"
+    },
+
+    {
+      "src": "UC-SQL_ADVANCED.jpg",
+      "alt": "1_UC-SQL_COMPLETO"
+    },
+
+    {
+      "src": "UC-POO_JAVA.jpg",
+      "alt": "2_UC-POO_JAVA"
+    },
+
+    {
+      "src": "UC-SPRING_BOOT.jpg",
+      "alt": "3_UC-SPRING_BOOT"
+    },
+
+    {
+      "src": "UC-ANGULAR.jpg",
+      "alt": "4_UC-ANGULAR"
+    },
+
+    {
+      "src": "UC-MAVEN.jpg",
+      "alt": "5-UC-MAVEN"
+    },
+
+    {
+      "src": "UC-ECLIPSE.jpg",
+      "alt": "6_UC-ECLIPSE"
+    },
+
+    {
+      "src": "UC-EXCEL.jpg",
+      "alt": "7_UC-EXCEL"
+    },
+
+    {
+      "src": "UC-ANDROID.jpg",
+      "alt": "8_UC-ANDROID"
+    },
+
+    {
+      "src": "UC-GIT_BASIC.jpg",
+      "alt": "9_UC-GIT_BASIC"
+    },
+
+    {
+      "src": "UC-GIT_ADVANCED.jpg",
+      "alt": "10_UC-ADVANCED"
+    }
+  ]
+}

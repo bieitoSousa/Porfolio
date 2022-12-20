@@ -1,0 +1,62 @@
+{
+    "name": "Experiencia",
+    "docs" : [
+        {
+            "duration":"2022 3 meses",
+            "name":"Galvintec (Septiembre 2022 - Enero 2023)",
+            "job":"Desarrollador Aplicaciones Web",
+            "performance":"Creacion web e-commerce",
+            "technologies":"NextJS , React , nodejs …"
+        },
+        {
+            "duration":"2022 6 meses",
+            "name":"Galvintec (Enero 2022 - Septiembre 2022)",
+            "job":"Desarrollador Aplicaciones Android",
+            "performance":"Maquetar y crear funcionalidades a medida en entornos Android",
+            "technologies":"Android Studio, Kotlin, …"
+        },
+        {
+            "duration":"2021 3 meses",
+            "name":"Galvintec (Septiembre 2021 - Diciembre 2021)",
+            "job":"Desarrollador Aplicaciones Android.",
+            "performance":"Maquetar y crear funcionalidades a medida en entornos Android.",
+            "technologies":"ReactNative …"
+        },
+        {
+            "duration":"2021 6 meses",
+            "name":"IMATIA (Septiembre 2020 - Marzo 2021)",
+            "job":"Desarrollador Web.",
+            "performance":"Creación de una web.",
+            "technologies":"SQL, Java, Spring, TypeScript, Angular, Node, Maven,Jira , GitHub, Html, Css …"
+        },
+        {
+            "duration":"2019 3 meses",
+            "name":"TOKAPP SCHOOL (Septiembre - Diciembre 2019)",
+            "subName":"Practicas Técnico Superior de Aplicaciones Web",
+            "job":"Creación de nuevas funcionalidades para web.",
+            "performance":"Maquetar y crear funcionalidades a medida en entornos Android.",
+            "technologies":"PHP, JavaScript, HTML, Css, MySQL, WordPress"
+        },
+        {
+            "duration":"2018 6 meses",
+            "name":"LIDERA KNOWLEDGE SL (Diciembre 2018 - Mayo 2019)",
+            "job":"Auxiliar Informático.",
+            "performance":"Creación y mantenimiento de un servidor web, destinado a la venta de cursos presenciales o semi -presenciales.",
+            "technologies":"CSM,  WordPress, Moodle"
+        },
+        {
+            "duration":"2017 6 meses",
+            "name":"SATEC ( Marzo - Agosto 2017 )",
+            "job":"Gestor de integración",
+            "performance":"configuración, gestión y asistencia de incidencias para rúters.",
+            "technologies":"configuración : Cisco, Huawei, Teldat, VPN , Apertura de puertos ..."
+        },
+        {
+            "duration":"2016 3 meses",
+            "name":"SERESCO (Septiembre-Diciembre 2016)",
+            "job":"Informático de redes. (Practicas)",
+            "performance":"Gestión, mantenimiento de equipo en remoto,seguridad informática, asesoramiento de las infraestructuras informáticas, prevención de riesgos informáticos, copias de seguridad y tratamiento de datos.",
+            "technologies":"Linux, Windows, VMware ..."
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "habilidades",
+  "docs": [
+    {
+      "name": "Database",
+      "items": [
+        {
+          "name": "PostGres",
+          "ratio": "80"
+        },
+        {
+          "name": "MONGODB",
+          "ratio": "70"
+        },
+        {
+          "name": "MSQL",
+          "ratio": "40"
+        }
+      ]
+    },
+    {
+      "name": "Web",
+      "items": [
+        {
+          "name": "React, NextJS , Vercel , NodeJs",
+          "ratio": "80"
+        },
+        {
+          "name": "Java, Spring",
+          "ratio": "50"
+        },
+        {
+          "name": "Angular, NodeJs",
+          "ratio": "30"
+        }
+      ]
+    },
+    {
+      "name": "Mobile",
+      "items": [
+        {
+          "name": "React Native, Expo , NodeJs",
+          "ratio": "80"
+        },
+        {
+          "name": "Java, Kotlin",
+          "ratio": "70"
+        },
+        {
+          "name": "Swift",
+          "ratio": "30"
+        }
+      ]
+    },
+    {
+      "name": "Maquetacion",
+      "items": [
+        {
+          "name": "HML JS CSS",
+          "ratio": "80"
+        },
+        {
+          "name": "Tailwind",
+          "ratio": "70"
+        },
+        {
+          "name": "Sass",
+          "ratio": "30"
+        }
+      ]
+    },
+    {
+      "name": "Environment",
+      "items": [
+        {
+          "name": "Git",
+          "ratio": "90"
+        },
+        {
+          "name": "Docker",
+          "ratio": "80"
+        },
+        {
+          "name": "Grafql , Api rest",
+          "ratio": "80"
+        }
+      ]
+    }
+  ]
+}

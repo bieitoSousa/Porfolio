@@ -86,14 +86,14 @@
 	}
 
 	/* Section: Skills */
-	.section-skills .col-md-4 + .col-md-4,
+	/* .section-skills .col-md-4 + .col-md-4,
 	.skill + .skill {
 		margin-top: 20px;
-	}
+	}*/
 
 	.skill h4 {
 		font-size: 22px;
-	}
+	} 
 
 
 
