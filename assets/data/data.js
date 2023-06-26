@@ -12,6 +12,15 @@ const data = {
   experience: {
     name: "Experiencia",
     docs: [
+       {
+        year: "2023",
+        duration: "4 meses",
+        name: "Kubik (Marzo 2023 - Junio 2023)",
+        job: "Desarrollador Full/Stack Aplicaciones Android/IOS , Backend Gooland AWS Lambda.",
+        performance:
+          "Maquetar y crear funcionalidades a medida en entornos Android/IOS.\n Crear funcionalidades Api AWS serverless",
+        technologies: "Android Studio, Xcode ,Kotlin, ReactNative, ReactHooks, typeScript, serverless, mongoDB, AWS Lambda, Figma dev mode, Git Hub Copilot, Gooland",
+      },
       {
         year: "2022",
         duration: "1 año",
